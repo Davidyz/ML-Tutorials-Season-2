@@ -11,8 +11,10 @@ tensorflow = "*"
 pandas = "*"
 opencv-python = "*"
 jupyter = "*"
+pandas-datareader = "*"
 
 [requires]
 python_version = "3.9"
 
 [dev-packages]
+ipykernel = "*"
