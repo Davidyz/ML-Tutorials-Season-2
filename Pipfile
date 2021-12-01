@@ -12,6 +12,7 @@ pandas = "*"
 opencv-python = "*"
 jupyter = "*"
 pandas-datareader = "*"
+nltk = "*"
 
 [requires]
 python_version = "3.9"
