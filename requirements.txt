@@ -1,0 +1,10 @@
+sklearn
+numpy
+matplotlib
+pandas
+opencv-python
+jupyter
+pandas-datareader
+nltk
+pip
+tensorflow-cpu
